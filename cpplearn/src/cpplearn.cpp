@@ -73,8 +73,6 @@ int main()
     log.Error("warning");
     log.Warn("warning");
     log.Info("warning");
-    Singleton::Get().Hello();
-    Singleton2::Get().Hello();
 
     //double p1 = 1, p2 = 0, p3 = 0;
     //for (int i = 0; i <= 30; i++) {
